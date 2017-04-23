@@ -2,7 +2,10 @@
 
 Takes picture of user and matches their skin color to a foundation.
 
-Make sure Python3 and Clarifai is installed.
+Make sure to have Python3 (pip3 version), Pil and Clarifai installed.
+
+To install Pil, run:
+`pip3 install pillow`
 
 In the terminal, run:
 `clarifai config`
